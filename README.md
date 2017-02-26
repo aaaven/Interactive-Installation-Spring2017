@@ -22,13 +22,13 @@
 
 ######Week01-01-simple-hover######
 
-*1.1.1.simple hover*
+- - *1.1.1.simple hover*
 
 code-1
 
-*1.1.2.simple-hover-Variable*
+- - *1.1.2.simple-hover-Variable*
 
-https://gist.github.com/aaaven/7e46b8c842963d8d267bc9626c866804.js
+- - https://gist.github.com/aaaven/7e46b8c842963d8d267bc9626c866804.js
 
 <script src="https://gist.github.com/aaaven/ad3e6a9902befb1ab47be66df2959f61.js"></script>
 
