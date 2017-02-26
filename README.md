@@ -28,13 +28,16 @@ code-1
 
 *1.1.2.simple-hover-Variable*
 
-https://gist.github.com/aaaven/7e46b8c842963d8d267bc9626c866804.js
 
-src="https://gist.github.com/aaaven/ad3e6a9902befb1ab47be66df2959f61.js
+{"gitdown": "gist", "id": "d3e4212c799252bac5fa"}
+
+<script src="https://gist.github.com/aaaven/7e46b8c842963d8d267bc9626c866804.js"></script>
+
+<script src="https://gist.github.com/aaaven/ad3e6a9902befb1ab47be66df2959f61.js"></script>
 
 *1.1.3.simple-hover-circle-shape-botton*
 
-https://gist.github.com/aaaven/9ca7b5e84e2579ce6bf9c5c1e1e804bd.js"
+<script src="https://gist.github.com/aaaven/9ca7b5e84e2579ce6bf9c5c1e1e804bd.js"></script>
 
 *1.1.4.simple-hover-multi-buttons*
 
