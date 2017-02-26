@@ -28,10 +28,7 @@ code-1
 
 *1.1.2.simple-hover-Variable*
 
-
-{"gitdown": "gist", "id": "d3e4212c799252bac5fa"}
-
-<script src="https://gist.github.com/aaaven/7e46b8c842963d8d267bc9626c866804.js"></script>
+https://gist.github.com/aaaven/7e46b8c842963d8d267bc9626c866804.js
 
 <script src="https://gist.github.com/aaaven/ad3e6a9902befb1ab47be66df2959f61.js"></script>
 
@@ -41,34 +38,32 @@ code-1
 
 *1.1.4.simple-hover-multi-buttons*
 
-code-5
+<script src="https://gist.github.com/aaaven/7bcab680d4b60f5db502ce13f164b9ba.js"></script>
 
-*1.1.5.simple-hover-Object-Oriented-Programming*
+*1.1.5.simple-hover-multi-buttons-function*
 
-code-6
+<script src="https://gist.github.com/aaaven/db8a333c933a6c626c1ce66a724ff1ac.js"></script>
+
+<script src="https://gist.github.com/aaaven/0c11d7fd0631fe4225c48b3d5ffe67ce.js"></script>
+
+*1.1.6.simple-hover-Object-Oriented-Programming*
+
+<script src="https://gist.github.com/aaaven/da0fdb65c6805fa638635fb60ae67434.js"></script>
 
 ######Week01-02-trigger&release######
 
-*1.2.1.tap-management*
+*1.2.1.buttons(tap-management)*
 
-code7
+<script src="https://gist.github.com/aaaven/dc190bc604a0c460f93f34424150a68e.js"></script>
 
 *1.2.2.button-states*
 
-code8
+<script src="https://gist.github.com/aaaven/c2794336983ba511aa809ed53d94c604.js"></script>
 
 *1.2.3.button-trigger*
 
-code9
+<script src="https://gist.github.com/aaaven/fbc1e4b46022d444aee3fbd9b7bf4c13.js"></script>
 
 ######Week01-03-control-p5######
 
 
-
-
-
-
-
-
-
-##Week02-
