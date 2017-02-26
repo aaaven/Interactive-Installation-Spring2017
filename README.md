@@ -32,15 +32,15 @@ code-1
 
 <script src="https://gist.github.com/aaaven/ad3e6a9902befb1ab47be66df2959f61.js"></script>
 
-*1.1.3.simple-hover-circle-shape-botton
+*1.1.3.simple-hover-circle-shape-botton*
 
 <script src="https://gist.github.com/aaaven/9ca7b5e84e2579ce6bf9c5c1e1e804bd.js"></script>
 
-*1.1.4.simple-hover-multi-buttons
+*1.1.4.simple-hover-multi-buttons*
 
 code-5
 
-*1.1.5.simple-hover-Object-Oriented-Programming
+*1.1.5.simple-hover-Object-Oriented-Programming*
 
 code-6
 
