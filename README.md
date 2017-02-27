@@ -24,7 +24,7 @@
 
 *1.1.1.simple hover*
 
-code-1
+- ask a student to start the sketch
 
 *1.1.2.simple-hover-Variable*
 
@@ -50,20 +50,23 @@ code-1
 
 - https://gist.github.com/aaaven/da0fdb65c6805fa638635fb60ae67434
 
-######Week01-02-trigger&release######
+##Week02-button-states&controlP5-03/06/2017
 
-*1.2.1.buttons(tap-management)*
+
+######Week02-01-button-states######
+
+*2.1.1.buttons(tap-management)*
 
 - https://gist.github.com/aaaven/dc190bc604a0c460f93f34424150a68e
 
-*1.2.2.button-states*
+*2.1.2.button-states*
 
 - https://gist.github.com/aaaven/c2794336983ba511aa809ed53d94c604
 
-*1.2.3.button-trigger*
+*2.1.3.button-trigger*
 
 - https://gist.github.com/aaaven/fbc1e4b46022d444aee3fbd9b7bf4c13
 
-######Week01-03-control-p5######
+######Week02-02-controlP5######
 
 
