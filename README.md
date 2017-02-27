@@ -67,7 +67,7 @@
 
 - [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
 
-- [Week02-01 prep code download  | 课前准备代码下载](TBA)
+- [Week02-02 prep code download  | 课前准备代码下载 (TBA)](TBA)
 
 ######Week02-01-button-states
 
