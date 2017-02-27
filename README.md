@@ -20,8 +20,9 @@
 
 - Live Coding: Make a button in Processing
 
-- [Week01 Prep code download](https://1drv.ms/f/s!Aiakqp-lroptuEybsb8MDo-j-nT4)
+- [Week01 Prep code download | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuEybsb8MDo-j-nT4)
 
+- [Week01 In-class code download | 课堂示范代码下载](https://1drv.ms/f/s!Aiakqp-lroptuERBSTJddzTm51LI)
 
 ######Week01-01-simple-hover
 
@@ -55,18 +56,18 @@
 
 *1.1.7.buttons(tap-management)*
 
-- [buttons(tap-management)](https://gist.github.com/aaaven/dc190bc604a0c460f93f34424150a68e)
+- [buttons(tap-management) on gist](https://gist.github.com/aaaven/dc190bc604a0c460f93f34424150a68e)
 
 
 ##Week02-button-states & controlP5-03/06/2017
 
 - Get on-click and off-click states
 
-- controlP5 testing and code arrangement
+- ControlP5 testing and code arrangement
 
-- [Week02-01 prep code download](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
+- [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
 
-- [Week02-01 prep code download](TBA)
+- [Week02-01 prep code download  | 课前准备代码下载](TBA)
 
 ######Week02-01-button-states
 
