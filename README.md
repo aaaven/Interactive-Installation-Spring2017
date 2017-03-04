@@ -59,15 +59,25 @@
 - [buttons(tap-management) on gist](https://gist.github.com/aaaven/dc190bc604a0c460f93f34424150a68e)
 
 
-##Week02-button-states & controlP5-03/06/2017
+##Week02-button-states & keypress & controlP5-03/06/2017
 
 - Get on-click and off-click states
+
+- KeyPressed() vs KeyReleased()
+
+- Key vs keyCode， ASCII keys vs non-ASCII keys(except for BACKSPACE, TAB, ENTER, RETURN, ESC, and DELETE)
+
+- KeyPressed() vs keyPressed
+
+- keyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
 
 - ControlP5 testing and code arrangement
 
 - [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
 
-- [Week02-02 prep code download  | 课前准备代码下载 (TBA)](TBA)
+- [Week02-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHHMwIhIJd6y5hix)
+
+- [Week02-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHAYZBvicDTlVD4-)
 
 ######Week02-01-button-states
 
@@ -79,8 +89,11 @@
 
 - [buttons-states-modified](https://gist.github.com/aaaven/fbc1e4b46022d444aee3fbd9b7bf4c13)
 
-######Week02-02-controlP5
+######Week02-02-keypress
 
 - WIP
 
+######Week02-03-controlP5
+
+- WIP
 
