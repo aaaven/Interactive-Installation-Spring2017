@@ -67,6 +67,8 @@
 
 - ControlP5
 
+- [Week01 assignment sample code | 作业示例代码下载](？？？https://1drv.ms/f/s!Aiakqp-lroptuRzFpIlR37HOX2LH)
+ 
 - [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
 
 - [Week02-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHHMwIhIJd6y5hix)
@@ -89,9 +91,9 @@
 
 - Key vs keyCode， ASCII keys vs non-ASCII keys(except for BACKSPACE, TAB, ENTER, RETURN, ESC, and DELETE)
 
-- KeyPressed() vs keyPressed
+- KeyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
 
-- keyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
+- KeyPressed() vs keyPressed 
 
 ######Week02-03-controlP5
 
