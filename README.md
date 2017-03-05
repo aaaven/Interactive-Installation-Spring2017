@@ -20,9 +20,9 @@
 
 - Live Coding: Make a button in Processing
 
-- [Week01 Prep code download | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuEybsb8MDo-j-nT4)
+- [Week01 prep code download | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuEybsb8MDo-j-nT4)
 
-- [Week01 In-class code download | 课堂示范代码下载](https://1drv.ms/f/s!Aiakqp-lroptuERBSTJddzTm51LI)
+- [Week01 in-class code download | 课堂示范代码下载](https://1drv.ms/f/s!Aiakqp-lroptuERBSTJddzTm51LI)
 
 ######Week01-01-simple-hover
 
@@ -87,15 +87,15 @@
 
 ######Week02-02-keypress
 
-- KeyPressed() vs KeyReleased()
+- keyPressed() vs keyReleased()
 
-- Key vs keyCode， ASCII keys vs non-ASCII keys(except for BACKSPACE, TAB, ENTER, RETURN, ESC, and DELETE)
+- key vs keyCode， ASCII keys vs non-ASCII keys(except for BACKSPACE, TAB, ENTER, RETURN, ESC, and DELETE)
 
-- KeyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
+- keyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
 
-- KeyPressed() vs keyPressed 
+- keyPressed() vs keyPressed 
 
 ######Week02-03-controlP5
 
-- ControlP5 testing and code arrangement
+- controlP5 testing and code arrangement
 
