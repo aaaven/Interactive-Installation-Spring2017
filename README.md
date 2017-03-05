@@ -12,13 +12,13 @@
 
 ##Week01-Introduction and Reviews-02/27/2017
 
-- Class Intro/Overview
+- Class intro/Overview
 
 - Review on Processing
 
 - Review on OOP
 
-- Live Coding: Make a button in Processing
+- Live coding: Make a button in Processing
 
 - [Week01 prep code download | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuEybsb8MDo-j-nT4)
 
