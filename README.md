@@ -63,15 +63,9 @@
 
 - Get on-click and off-click states
 
-- KeyPressed() vs KeyReleased()
+- Keypress
 
-- Key vs keyCode， ASCII keys vs non-ASCII keys(except for BACKSPACE, TAB, ENTER, RETURN, ESC, and DELETE)
-
-- KeyPressed() vs keyPressed
-
-- keyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
-
-- ControlP5 testing and code arrangement
+- ControlP5
 
 - [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
 
@@ -91,9 +85,15 @@
 
 ######Week02-02-keypress
 
-- WIP
+- KeyPressed() vs KeyReleased()
+
+- Key vs keyCode， ASCII keys vs non-ASCII keys(except for BACKSPACE, TAB, ENTER, RETURN, ESC, and DELETE)
+
+- KeyPressed() vs keyPressed
+
+- keyPressed() function is called once ONLY for keys(0-9,a-z,caps lock,shift,control,alt/option,command)
 
 ######Week02-03-controlP5
 
-- WIP
+- ControlP5 testing and code arrangement
 
