@@ -25,9 +25,9 @@
 - [Week01 in-class code download | 课堂示范代码下载](https://1drv.ms/f/s!Aiakqp-lroptuERBSTJddzTm51LI)
 
 
-##Week02-button-states & keypress & controlP5-03/06/2017
+##Week02-button-status & keypress & controlP5-03/06/2017
 
-- [Button states:on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click) 
+- [Button status:on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click) 
 
 - [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
 
@@ -44,7 +44,7 @@
 - [Week01 assignment sample code | 作业示例代码下载](？？？https://1drv.ms/f/s!Aiakqp-lroptuRzFpIlR37HOX2LH)
 
 
-##Week03-Leap motion-03/13/2017
+##Week03-Leap motion intro& drawing-03/13/2017
 
 - [Leap Motion Overview/ 简介](https://github.com/aaaven/Interactive-Installation/wiki/Leap-Motion-Overview)
 
@@ -63,5 +63,8 @@
 - [Week03-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuT1iGgrwrud7ZVFS)
 
 - [Week03-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuUi1VQEzBuLji_DS)
+
+
+##Week04-Leap motion traking-03/13/2017
 
 
