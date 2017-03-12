@@ -1,4 +1,4 @@
-# **Interactive-Installation／交互装置设计（Spring 2017**）
+# **Interactive-Installation／交互装置设计（Spring 2017）**
 ######@New Media Program, WPP school. Shanghai Art and Design Academy
 
 ######@上海工艺美院，WPP学院，新媒体系
@@ -98,4 +98,22 @@
 ######Week02-03-controlP5
 
 - controlP5 testing and code arrangement
+
+##Week03-Leap motion-03/13/2017
+
+- [Leap Motion Overview/ 简介](https://github.com/aaaven/Interactive-Installation/wiki/Leap-Motion-Overview)
+
+- [Connecting to the Controller/ 设置](https://github.com/aaaven/Interactive-Installation/wiki/Connecting-to-the-Controller)
+
+- [Tracking Model/ 捕捉模式](https://github.com/aaaven/Interactive-Installation/wiki/Tracking-Model)
+
+- [Leap Motion Coordinate Systems/ 坐标系统](https://github.com/aaaven/Interactive-Installation/wiki/Leap-Motion-Coordinate-Systems)
+
+- [Interaction Box/ 最佳捕捉区域](https://github.com/aaaven/Interactive-Installation/wiki/Interaction-Box)
+
+- [Camera Images/ 相机数据](https://github.com/aaaven/Interactive-Installation/wiki/Camera-Images)
+
+
+
+
 
