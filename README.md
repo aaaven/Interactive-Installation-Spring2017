@@ -69,3 +69,28 @@
 - [Camera Images/ 相机数据](https://github.com/aaaven/Interactive-Installation/wiki/Camera-Images)
 
 - [leapmotion for processing library/ 库文件讲解](https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library)
+
+
+##Week05-Pixels-03/27/2017
+
+##Week06-Color traking-04/1/2017
+
+##Week07-Open CV library-04/10/2017
+
+##Week08-Projection mapping-04/17/2017
+
+##Week09-Intro to kinect-04/24/2017
+
+##Week10-Advanced kinect A-05/03/2017
+
+##Week11-Advanced kinect B-05/08/2017
+
+##Week12-Advanced kinect C-05/15/2017
+
+##Final assignment 05/22/2017~ 06/02/2017
+
+
+
+
+
+
