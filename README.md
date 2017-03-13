@@ -68,4 +68,4 @@
 
 - [Camera Images/ 相机数据](https://github.com/aaaven/Interactive-Installation/wiki/Camera-Images)
 
-- [leapmotion for processing library/ 库文件讲解]（https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library）
+- [leapmotion for processing library/ 库文件讲解](https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library)
