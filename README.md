@@ -40,6 +40,7 @@
 - [Week02-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHAYZBvicDTlVD4-)
 
 
+- [Week02 assignment](https://github.com/aaaven/Interactive-Installation/wiki/week02-assignment)
 
 - [Week01 assignment sample code | 作业示例代码下载](？？？https://1drv.ms/f/s!Aiakqp-lroptuRzFpIlR37HOX2LH)
 
