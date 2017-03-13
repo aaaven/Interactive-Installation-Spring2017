@@ -51,13 +51,9 @@
 
 - [Connecting to the Controller/ 设置](https://github.com/aaaven/Interactive-Installation/wiki/Connecting-to-the-Controller)
 
-- [Tracking Model/ 捕捉模式](https://github.com/aaaven/Interactive-Installation/wiki/Tracking-Model)
-
 - [Leap Motion Coordinate Systems/ 坐标系统](https://github.com/aaaven/Interactive-Installation/wiki/Leap-Motion-Coordinate-Systems)
 
 - [Interaction Box/ 最佳捕捉区域](https://github.com/aaaven/Interactive-Installation/wiki/Interaction-Box)
-
-- [Camera Images/ 相机数据](https://github.com/aaaven/Interactive-Installation/wiki/Camera-Images)
 
 - [Week03-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuTa76j6m3VD55x-P)
 
@@ -68,4 +64,8 @@
 
 ##Week04-Leap motion traking-03/20/2017
 
+- [Tracking Model/ 捕捉模式](https://github.com/aaaven/Interactive-Installation/wiki/Tracking-Model)
 
+- [Camera Images/ 相机数据](https://github.com/aaaven/Interactive-Installation/wiki/Camera-Images)
+
+- [leapmotion for processing library/ 库文件讲解]（https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library）
