@@ -73,7 +73,7 @@
 
 ##Week05-Pixels-03/27/2017
 
-##Week06-Color traking-04/1/2017
+##Week06-Color traking-04/1/2017(Make up for 04/03/2017)
 
 ##Week07-Open CV library-04/10/2017
 
@@ -81,7 +81,7 @@
 
 ##Week09-Intro to kinect-04/24/2017
 
-##Week10-Advanced kinect A-05/03/2017
+##Week10-Advanced kinect A-05/03/2017(Make up for 05/01/2017)
 
 ##Week11-Advanced kinect B-05/08/2017
 
