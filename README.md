@@ -73,7 +73,9 @@
 
 ## Week05-Pixels-03/27/2017
 
-## Week06-Color traking-04/1/2017(Make up for 04/03/2017)
+## Week06-Color traking-04/1/2017
+
+###### *This is a make up class for 04/03/2017 due to Qing-ming festival break*
 
 ## Week07-Open CV library-04/10/2017
 
@@ -81,7 +83,9 @@
 
 ## Week09-Intro to kinect-04/24/2017
 
-## Week10-Advanced kinect A-05/03/2017(Make up for 05/01/2017)
+## Week10-Advanced kinect A-05/03/2017
+
+###### *This is a make up class for 05/01/2017 due to labour's day break*
 
 ## Week11-Advanced kinect B-05/08/2017
 
@@ -89,10 +93,14 @@
 
 ## Week13-Final project development A-05/22/2017
 
-## Week14-Final project development B-05/24/2017(make up for 05/29/2017)
+## Week14-Final project development B-05/24/2017
 
-## Week15-Final project development C-05/27/2017(make up for 06/05/2017)
+###### *This is a make up class for 05/29/2017, we packed 3 weeks' classes into one to create a intense final project week*
 
-## Week16-Final project presentation-06/01/2017(make up for 06/12/2017)
+## Week15-Final project development C-05/27/2017
 
+###### *This is a make up class for 06/05/2017, we packed 3 weeks' classes into one to create a intense final project week*
 
+## Week16-Final project presentation-06/01/2017
+
+###### *This is a make up class for 06/012/2017, we packed 3 weeks' classes into one to create a intense final project week*
