@@ -62,7 +62,7 @@
 - [Week03-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuUi1VQEzBuLji_DS)
 
 
-## Week04-Leap motion traking-03/20/2017
+## Week04-Leap motion tracking-03/20/2017
 
 - [Tracking Model/ 捕捉模式](https://github.com/aaaven/Interactive-Installation/wiki/Tracking-Model)
 
@@ -73,7 +73,7 @@
 
 ## Week05-Pixels-03/27/2017
 
-## Week06-Color traking-04/1/2017
+## Week06-Color tracking-04/1/2017
 
 ###### *This is a make up class for 04/03/2017 due to Qing-ming festival break*
 
