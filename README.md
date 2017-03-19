@@ -1,9 +1,9 @@
 # **Interactive-Installation／交互装置设计（Spring 2017）**
-######@New Media Program, WPP school. Shanghai Art and Design Academy
+###### @New Media Program, WPP school. Shanghai Art and Design Academy
 
-######@上海工艺美院，WPP学院，新媒体系
+###### @上海工艺美院，WPP学院，新媒体系
 
-##Key Info
+## Key Info
 - by Aven Le Zhou, adjunct profesoor
 
 - Monday,9:00am-12:00pm
@@ -25,7 +25,7 @@
 - [Week01 in-class code download | 课堂示范代码下载](https://1drv.ms/f/s!Aiakqp-lroptuERBSTJddzTm51LI)
 
 
-##Week02-button-status & keypress & controlP5-03/06/2017
+## Week02-button-status & keypress & controlP5-03/06/2017
 
 - [Button status:on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click) 
 
@@ -45,7 +45,7 @@
 - [Week01 assignment sample code | 作业示例代码下载](？？？https://1drv.ms/f/s!Aiakqp-lroptuRzFpIlR37HOX2LH)
 
 
-##Week03-Leap motion intro& drawing-03/13/2017
+## Week03-Leap motion intro& drawing-03/13/2017
 
 - [Leap Motion Overview/ 简介](https://github.com/aaaven/Interactive-Installation/wiki/Leap-Motion-Overview)
 
@@ -62,7 +62,7 @@
 - [Week03-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuUi1VQEzBuLji_DS)
 
 
-##Week04-Leap motion traking-03/20/2017
+## Week04-Leap motion traking-03/20/2017
 
 - [Tracking Model/ 捕捉模式](https://github.com/aaaven/Interactive-Installation/wiki/Tracking-Model)
 
@@ -71,32 +71,28 @@
 - [leapmotion for processing library/ 库文件讲解](https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library)
 
 
-##Week05-Pixels-03/27/2017
+## Week05-Pixels-03/27/2017
 
-##Week06-Color traking-04/1/2017(Make up for 04/03/2017)
+## Week06-Color traking-04/1/2017(Make up for 04/03/2017)
 
-##Week07-Open CV library-04/10/2017
+## Week07-Open CV library-04/10/2017
 
-##Week08-Projection mapping-04/17/2017
+## Week08-Projection mapping-04/17/2017
 
-##Week09-Intro to kinect-04/24/2017
+## Week09-Intro to kinect-04/24/2017
 
-##Week10-Advanced kinect A-05/03/2017(Make up for 05/01/2017)
+## Week10-Advanced kinect A-05/03/2017(Make up for 05/01/2017)
 
-##Week11-Advanced kinect B-05/08/2017
+## Week11-Advanced kinect B-05/08/2017
 
-##Week12-Advanced kinect C-05/15/2017
+## Week12-Advanced kinect C-05/15/2017
 
-##Week13-Final project development A-05/22/2017
+## Week13-Final project development A-05/22/2017
 
-##Week14-Final project development B-05/24/2017(make up for 05/29/2017)
+## Week14-Final project development B-05/24/2017(make up for 05/29/2017)
 
-##Week15-Final project development C-05/27/2017(make up for 06/05/2017)
+## Week15-Final project development C-05/27/2017(make up for 06/05/2017)
 
-##Week16-Final project presentation-06/01/2017(make up for 06/12/2017)
-
-
-
-
+## Week16-Final project presentation-06/01/2017(make up for 06/12/2017)
 
 
