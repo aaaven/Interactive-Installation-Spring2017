@@ -87,7 +87,13 @@
 
 ##Week12-Advanced kinect C-05/15/2017
 
-##Final assignment 05/22/2017~ 06/02/2017
+##Final project development 01 05/22/2017
+
+##Final project development 02 05/24/2017
+
+##Final project development 02 05/27/2017
+
+##Final project presentation  06/01/2017
 
 
 
