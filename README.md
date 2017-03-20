@@ -29,20 +29,17 @@
 
 - [Button status:on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click) 
 
-- [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
-
 - [Key interaction in Processing](https://github.com/aaaven/Interactive-Installation/wiki/Key-interaction)
-
-- [Week02-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHHMwIhIJd6y5hix)
 
 - [ControlP5](http://www.sojamo.de/libraries/controlP5/)
 
+- [Week02-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuG9strCRte-TYd2U)
+
+- [Week02-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHHMwIhIJd6y5hix)
+
 - [Week02-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuHAYZBvicDTlVD4-)
 
-
 - [Week02 assignment](https://github.com/aaaven/Interactive-Installation/wiki/week02-students-assignment)
-
-- [Week01 assignment sample code | 作业示例代码下载](？？？https://1drv.ms/f/s!Aiakqp-lroptuRzFpIlR37HOX2LH)
 
 
 ## Week03-Leap motion intro& drawing-03/13/2017
@@ -70,6 +67,13 @@
 
 - [leapmotion for processing library/ 库文件讲解](https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library)
 
+- Pinch button
+
+- Knob simulation
+
+- [Week04-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuXbPscUYJanvz4vp)
+
+- [Week04-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuhNQLkPxNOrfmxDz)
 
 ## Week05-Pixels-03/27/2017
 
