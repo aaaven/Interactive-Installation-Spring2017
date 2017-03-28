@@ -1,10 +1,10 @@
 # **Interactive-Installation／交互装置设计（Spring 2017）**
-###### @New Media Program, WPP school. Shanghai Art and Design Academy
+###### @ New Media Program, WPP school. Shanghai Art and Design Academy
 
 ###### @上海工艺美院，WPP学院，新媒体系
 
 ## Key Info
-- by Aven Le Zhou, adjunct profesoor
+- by Aven Le Zhou, adjunct professor
 
 - Monday,9:00am-12:00pm
 
@@ -27,7 +27,7 @@
 
 ## Week02-button-status & keypress & controlP5-03/06/2017
 
-- [Button status:on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click) 
+- [Button status: on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click)
 
 - [Key interaction in Processing](https://github.com/aaaven/Interactive-Installation/wiki/Key-interaction)
 
@@ -65,7 +65,7 @@
 
 - [Camera Images/ 相机数据](https://github.com/aaaven/Interactive-Installation/wiki/Camera-Images)
 
-- [leapmotion for processing library/ 库文件讲解](https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library)
+- [leap motion for processing library/ 库文件讲解](https://github.com/aaaven/Interactive-Installation/wiki/leapmotion-for-processing-library)
 
 - Pinch button
 
@@ -75,25 +75,39 @@
 
 - [Week04-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuhNQLkPxNOrfmxDz)
 
-## Week05-Pixels-03/27/2017
+## Week05-Q & A-03/27/2017
 
-## Week06-Color tracking-04/1/2017
+## Week06-Pixels & Color tracking-04/1/2017
 
 ###### *This is a make up class for 04/03/2017 due to Qing-ming festival break*
 
+- [Pixels in Processing]()
+
+- [Image, Video, Webcam]()
+
+- [Color Tracking]()
+
+- [Week06-02 prep code download  | 课前准备代码下载]()
+
+- [Week06-02 prep code download  | 课前准备代码下载]()
+
+- [Week06-03 prep code download  | 课前准备代码下载]()
+
 ## Week07-Open CV library-04/10/2017
+
+- [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
 
 ## Week08-Projection mapping-04/17/2017
 
-## Week09-Intro to kinect-04/24/2017
+## Week09-Intro to Kinect -04/24/2017
 
-## Week10-Advanced kinect A-05/03/2017
+## Week10-Advanced Kinect A-05/03/2017
 
 ###### *This is a make up class for 05/01/2017 due to labour's day break*
 
-## Week11-Advanced kinect B-05/08/2017
+## Week11-Advanced Kinect B-05/08/2017
 
-## Week12-Advanced kinect C-05/15/2017
+## Week12-Advanced Kinect C-05/15/2017
 
 ## Week13-Final project development A-05/22/2017
 
@@ -108,5 +122,3 @@
 ###### *This is a make up class for 05/29/2017 due to dragon boat festival break, we packed 3 weeks' classes into one to create an intense final project week*
 
 ## Week16-Final project presentation-06/01/2017
-
-
