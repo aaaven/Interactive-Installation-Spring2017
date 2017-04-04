@@ -77,23 +77,37 @@
 
 ## Week05-Q & A-03/27/2017
 
-## Week06-Pixels & Color tracking-04/1/2017
+## Week06-Pixels-04/1/2017
 
 ###### *This is a make up class for 04/03/2017 due to Qing-ming festival break*
 
-- [Pixels in Processing]()
+- [HSB Color ]()
+
+- [Color grids: color picking and drawing]()
+
+- [Image pixels: color picking]()
+
+- [Image pixels: sorting]()
+
+- [Image pixels: patterns and agents]()
+
+- [Week06-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvWtdTEm7eeRfcLXw)
+
+- [Week06-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvlFI3sw0AcGhNlnv)
+
+- [Week06-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvlVEvy3TriIK2-8z)
+
+- [Week06-04 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvlmhMvO5AF_Ko23_)
+
+## Week07-Webcam pixel manipulation & Open CV library-04/10/2017
+
+- [Image pixels: update pixels]()
 
 - [Image, Video, Webcam]()
 
-- [Color Tracking]()
+- [Real-time pixels: "mirror filter"]()
 
-- [Week06-02 prep code download  | 课前准备代码下载]()
-
-- [Week06-02 prep code download  | 课前准备代码下载]()
-
-- [Week06-03 prep code download  | 课前准备代码下载]()
-
-## Week07-Open CV library-04/10/2017
+- [Real-time pixels: patterns and agents]()
 
 - [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
 
