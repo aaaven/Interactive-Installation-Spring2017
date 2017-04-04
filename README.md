@@ -99,15 +99,15 @@
 
 - [Week06-04 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvlmhMvO5AF_Ko23_)
 
-## Week07-Webcam pixel manipulation & Open CV library-04/10/2017
+- [Week06-05 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvnVGI_xaOxH3KIum)
 
-- [Image pixels: update pixels]()
+## Week07-Webcam pixel manipulation & Open CV library-04/10/2017
 
 - [Image, Video, Webcam]()
 
-- [Real-time pixels: "mirror filter"]()
-
 - [Real-time pixels: patterns and agents]()
+
+- [Real-time pixels: "mirror filter"]()
 
 - [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
 
