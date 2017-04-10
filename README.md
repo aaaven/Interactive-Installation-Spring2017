@@ -101,15 +101,13 @@
 
 - [Week06-05 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvnVGI_xaOxH3KIum)
 
-## Week07-Webcam pixel manipulation & Open CV library-04/10/2017
+## Week07-Webcam pixel manipulation -04/10/2017
 
-- [Image, Video, Webcam]()
+- [Image, Video, Webcam& Realtime pixel manipulation]()
 
-- [Real-time pixels: patterns and agents]()
+- [Realtime pixels: patterns and agents]()
 
-- [Real-time pixels: "mirror filter"]()
-
-- [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
+- [Realtime pixels: "mirror filter"]()
 
 - [Week07-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvW2g7DaiKq1PeMrh)
 
@@ -119,7 +117,13 @@
 
 - [Week07-04 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxRY5o-B8_POyco5)
 
-## Week08-Projection mapping-04/17/2017
+## Week08- Open CV library & Projection mapping-04/17/2017
+
+- [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
+
+- [Keystone](http://keystonep5.sourceforge.net/)
+
+- [Syphon](https://github.com/Syphon/Processing/releases)
 
 ## Week09-Intro to Kinect -04/24/2017
 
