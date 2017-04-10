@@ -111,6 +111,14 @@
 
 - [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
 
+- [Week07-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvW2g7DaiKq1PeMrh)
+
+- [Week07-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxJRlKebJIM0CDWj)
+
+- [Week07-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxP3NF7_X7P9Pj08)
+
+- [Week07-04 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxRY5o-B8_POyco5)
+
 ## Week08-Projection mapping-04/17/2017
 
 ## Week09-Intro to Kinect -04/24/2017
