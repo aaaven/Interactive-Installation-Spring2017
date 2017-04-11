@@ -22,9 +22,6 @@
 
 - [Week01 prep code download | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuEybsb8MDo-j-nT4)
 
-- [Week01 in-class code download | 课堂示范代码下载](https://1drv.ms/f/s!Aiakqp-lroptuERBSTJddzTm51LI)
-
-
 ## Week02-button-status & keypress & controlP5-03/06/2017
 
 - [Button status: on-click and off-click](https://github.com/aaaven/Interactive-Installation/wiki/on-off-click)
@@ -75,6 +72,8 @@
 
 - [Week04-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuhNQLkPxNOrfmxDz)
 
+- [Week04-02 prep code download  | 课前准备代码下载](
+https://1drv.ms/f/s!Aiakqp-lroptvWo2mYzKOFEA3Xcb)
 ## Week05-Q & A-03/27/2017
 
 ## Week06-Pixels-04/1/2017
@@ -105,17 +104,23 @@
 
 - [Image, Video, Webcam& Realtime pixel manipulation]()
 
-- [Realtime pixels: patterns and agents]()
+- [Realtime pixels: tracking]()
 
-- [Realtime pixels: "mirror filter"]()
+- [Realtime pixels: grid]()
+
+- [Realtime pixels: patterns]()
+
+- [Realtime pixels: agents]()
 
 - [Week07-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvW2g7DaiKq1PeMrh)
 
 - [Week07-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxJRlKebJIM0CDWj)
 
-- [Week07-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxP3NF7_X7P9Pj08)
+- [Week07-03 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvzOB5y-WbEO6dyuB)
 
-- [Week07-04 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxRY5o-B8_POyco5)
+- [Week07-04 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvxP3NF7_X7P9Pj08)
+
+- [Week07-05 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvzQnj8JZuJwp0_6c)
 
 ## Week08- Open CV library & Projection mapping-04/17/2017
 
