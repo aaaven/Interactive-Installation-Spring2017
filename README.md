@@ -122,13 +122,15 @@ https://1drv.ms/f/s!Aiakqp-lroptvWo2mYzKOFEA3Xcb)
 
 - [Week07-05 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvzQnj8JZuJwp0_6c)
 
-## Week08- Open CV library & Projection mapping-04/17/2017
+## Week08- Color tracking & Open CV library -04/17/2017
 
 - [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
 
 - [Keystone](http://keystonep5.sourceforge.net/)
 
 - [Syphon](https://github.com/Syphon/Processing/releases)
+
+- [Week08 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv0MCvBB2_jNHxgh1)
 
 ## Week09-Intro to Kinect -04/24/2017
 
