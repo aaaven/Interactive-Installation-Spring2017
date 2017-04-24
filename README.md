@@ -72,8 +72,8 @@
 
 - [Week04-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptuhNQLkPxNOrfmxDz)
 
-- [Week04-02 prep code download  | 课前准备代码下载](
-https://1drv.ms/f/s!Aiakqp-lroptvWo2mYzKOFEA3Xcb)
+- [Week04-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvWo2mYzKOFEA3Xcb)
+
 ## Week05-Q & A-03/27/2017
 
 ## Week06-Pixels-04/1/2017
@@ -122,7 +122,7 @@ https://1drv.ms/f/s!Aiakqp-lroptvWo2mYzKOFEA3Xcb)
 
 - [Week07-05 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptvzQnj8JZuJwp0_6c)
 
-## Week08- Color tracking & Open CV library -04/17/2017
+## Week08- Color tracking-04/17/2017
 
 - [OpenCV for processing](https://github.com/atduskgreg/opencv-processing)
 
@@ -130,10 +130,13 @@ https://1drv.ms/f/s!Aiakqp-lroptvWo2mYzKOFEA3Xcb)
 
 - [Syphon](https://github.com/Syphon/Processing/releases)
 
-- [Week08 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv0MCvBB2_jNHxgh1)
+- [Week08-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv0MCvBB2_jNHxgh1)
+
+- [Week08-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv32Svbul4jRF8yAX)
 
 ## Week09-Intro to Kinect -04/24/2017
-- [Week09 prep code download  | 课前准备代码下载]()
+
+- [Week09 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv2Durx_liGz7YXoz)
 
 ## Week10-Advanced Kinect A-05/03/2017
 
