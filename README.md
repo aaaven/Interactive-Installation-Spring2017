@@ -146,16 +146,16 @@
 
 ## Week12-Advanced Kinect C-05/15/2017
 
-## Week13-Final project development A-05/22/2017
+## Week13-Final project development -05/22/2017
 
 ###### *We packed 3 weeks' classes into one to create an intense final project week, start at 05/22/2017*
 
-## Week14-Final project development B-05/24/2017
+## Week14-Final project development -05/24/2017
 
-###### *This is a make up class for 06/05/2017, we packed 3 weeks' classes into one to create an intense final project week*
+###### *We packed 3 weeks' classes into one to create an intense final project week, meet at 05/24/2017*
 
-## Week15-Final project development C-05/27/2017
+## Week15-Final project development -05/27/2017
 
-###### *This is a make up class for 05/29/2017 due to dragon boat festival break, we packed 3 weeks' classes into one to create an intense final project week*
+###### *We packed 3 weeks' classes into one to create an intense final project week, meet at 05/27/2017*
 
-## Week16-Final project presentation-06/01/2017
+## Week16-Final project presentation -06/01/2017
