@@ -134,17 +134,21 @@
 
 - [Week08-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv32Svbul4jRF8yAX)
 
-## Week09-Intro to Kinect -04/24/2017
+## Week09- Kinect introduction -04/24/2017
 
 - [Week09 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv2Durx_liGz7YXoz)
 
-## Week10-Advanced Kinect A-05/03/2017
+## Week10- Kinect with depthImage and pointClouds A-05/03/2017
 
 ###### *This is a make up class for 05/01/2017 due to labour's day break*
 
-## Week11-Advanced Kinect B-05/08/2017
+- [Week10-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwATWxQTAm1-ySgXI)
 
-## Week12-Advanced Kinect C-05/15/2017
+- [Week10-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwAUogIontbNUq5Pu)
+
+## Week11- Kinect with classes -05/08/2017
+
+## Week12- Kinect4Windows with skeleton tracking -05/15/2017
 
 ## Week13-Final project development -05/22/2017
 
