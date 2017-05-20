@@ -138,28 +138,26 @@
 
 - [Week09 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv2Durx_liGz7YXoz)
 
-## Week10- Kinect with depthImage and pointClouds A-05/03/2017
+## Week11- Kinect with depthImage and pointClouds A-05/08/2017
 
-###### *This is a make up class for 05/01/2017 due to labour's day break*
+- [Week11-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwATWxQTAm1-ySgXI)
 
-- [Week10-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwATWxQTAm1-ySgXI)
+- [Week11-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwAUogIontbNUq5Pu)
 
-- [Week10-02 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwAUogIontbNUq5Pu)
+## Week12- Kinect with particle -05/15/2017
 
-## Week11- Kinect with classes -05/08/2017
+- [Week12 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwC5ZRFFKr4z206mD)
 
-## Week12- Kinect4Windows with skeleton tracking -05/15/2017
+## Week13- Kinect with physical libraries -05/22/2017
 
-## Week13-Final project development -05/22/2017
+- [Week13 prep code download  | 课前准备代码下载]()
 
-###### *We packed 3 weeks' classes into one to create an intense final project week, start at 05/22/2017*
+## Week14- Kinect with skeleton tracking -05/27/2017
 
-## Week14-Final project development -05/24/2017
+- [Week14 prep code download  | 课前准备代码下载]()
 
-###### *We packed 3 weeks' classes into one to create an intense final project week, meet at 05/24/2017*
+## Week15-Final project development -05/31/2017
 
-## Week15-Final project development -05/27/2017
+## Week16-Final project development -06/01/2017
 
-###### *We packed 3 weeks' classes into one to create an intense final project week, meet at 05/27/2017*
-
-## Week16-Final project presentation -06/01/2017
+## Week17-Final project presentation -06/02/2017
