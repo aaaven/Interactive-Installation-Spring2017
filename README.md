@@ -138,6 +138,8 @@
 
 - [Week09 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptv2Durx_liGz7YXoz)
 
+## Week09- Cancelled due to public holiday -05/01/2017
+
 ## Week11- Kinect with depthImage and pointClouds A-05/08/2017
 
 - [Week11-01 prep code download  | 课前准备代码下载](https://1drv.ms/f/s!Aiakqp-lroptwATWxQTAm1-ySgXI)
