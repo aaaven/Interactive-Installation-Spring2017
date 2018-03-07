@@ -1,0 +1,24 @@
+{
+  "/yRange": {
+    "lowValue": 0,
+    "highValue": 848
+  },
+  "/resolution": {
+    "min": 1,
+    "max": 10,
+    "value": 1
+  },
+  "/depthRange": {
+    "lowValue": 497.2579040527344,
+    "highValue": 2083.747314453125
+  },
+  "/pointSize": {
+    "min": 1,
+    "max": 10,
+    "value": 2
+  },
+  "/xRange": {
+    "lowValue": 0,
+    "highValue": 1024
+  }
+}

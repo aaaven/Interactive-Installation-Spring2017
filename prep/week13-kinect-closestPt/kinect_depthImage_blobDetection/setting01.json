@@ -1,0 +1,11 @@
+{
+  "/depthRange": {
+    "lowValue": 853.2586059570312,
+    "highValue": 1954.7379150390625
+  },
+  "/scale": {
+    "min": 0,
+    "max": 1,
+    "value": 0.75
+  }
+}
